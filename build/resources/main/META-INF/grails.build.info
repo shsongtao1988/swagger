@@ -1,0 +1,6 @@
+#Mon, 01 Jul 2019 17:41:40 +0800
+
+info.app.version=0.1
+info.app.name=swagger
+grails.env=development
+info.app.grailsVersion=3.2.9

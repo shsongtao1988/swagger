@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: io.springfox.grails:springfox-grails:1.0.1-SNAPSHOT">
+    <CLASSES>
+      <root url="jar://D:/gradle/caches/modules-2/files-2.1/io.springfox.grails/springfox-grails/1.0.1-SNAPSHOT/6f0c6f3c7ebabc13cfc5f7df2be8b18580bf17a1/springfox-grails-1.0.1-SNAPSHOT.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://D:/gradle/caches/modules-2/files-2.1/io.springfox.grails/springfox-grails/1.0.1-SNAPSHOT/23bfa9354e6197ec002f5a81193cb1ef278eb9ef/springfox-grails-1.0.1-SNAPSHOT-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
